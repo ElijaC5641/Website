@@ -1,24 +1,51 @@
 <!DOCTYPE html>
 <html>
 	<head>
+        
 
-	<style>
-      p {
-  font-size: 2.5em;
-}  
-    </style>	<!-- Title of the Website -->
+		<!-- Title of the Website -->
 		<title> Early Esports of Gaming to now </title>
+        <style>
+           .header {
+            padding: 60px;
+            text-align: center;
+            background: #1abc9c;
+            color: white;
+            font-size: 30px;
+            }
+            
+            .wrapper {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+          }
+        </style>
+        
+       
+       
 		
-		<h4><a href="#C1">The First Competition</a></h4>
-		<h4><a href="#C2">1990 The Indispensable Internet and the first Reconized Esport game</a></h4>
-		<h4><a href="#C3">1998 MOBA genaration</a></h4>
-		<h4><a href="#C4">South Korea enters the frey</a></h4>
-		<h4><a href="#C5">PC Bangs</a></h4>
+		
 		
     	
 	</head>
 	<body>
-		
+        
+
+        <div class="header">
+            <h1>The evoulution of Esport Gaming</h1>
+            <p>The rise of Epsorts</p>
+          </div>
+          
+        
+        <div class="wrapper">
+        <div><h4><a href="#C1">The First Competition</a></h4></div>
+		<h4><a href="#C2">1990 The Indispensable Internet and the first Reconized Esport game</a></h4>
+		<h4><a href="#C3">1998 MOBA genaration</a></h4>
+		<h4><a href="#C4">South Korea enters the frey</a></h4>
+		<h4><a href="#C5">PC Bangs</a></h4>
+    
+        </div>
+        
+    <div style= text-align:center;>
         <p>“I'm not thinking, I'm just acting. It's almost an animalistic instinct, I just do what I need to do.” -Lee Sang-hyeok. Most may know him as Faker he is the most renouned player for League of Legends World Cup. This Article will be talking about the rise of E-sports to now and the struggles it went through to get to the stage it is now.</p>
 
 		<h2 id="C1">The First Competition</h2>
