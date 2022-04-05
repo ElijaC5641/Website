@@ -37,8 +37,8 @@
         
 
         <div class="header">
-            <h1>The evolution of Esport Gaming</h1>
-            <p>The rise of esports </p>
+            <h1 id="C13">The evolution of Esport Gaming</h1>
+            <p>The rise of esports </p>
           </div>
         <!--Align the text in the center-->
           <div style= text-align:center;>
@@ -210,6 +210,8 @@
         </i></p>
 
         <img src = "https://media.discordapp.net/attachments/847523474943508560/910205127741304842/image0.png?width=311&height=431">
+
+        <h4><a href="#C13">Back to the top</a></h4> 
 	</body>
 	
 </html>
