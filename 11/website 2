@@ -2,18 +2,17 @@
 <html>
     <head>
         <title> Resources </title>
+        <style>
+
+             
+             body {
+             background-color: lightblue;
+             }
+         </style>
     </head>
-        <h1>resources we used for coding</h1>
-    <body>
+     
     <ul>
-        <li><a href="https://github.com/">Github</a></hl></li>
-        <li><a href="https://codehs.com/">CodeHS</a></h1></li>
-        <li><a href="https://www.w3schools.com/html/html_responsive.asp ">w3schools</a></h1></li>
-        <li><a href="https://www.youtube.com/watch?v=b9dYFB2swZs&list=WL&index=1&t=1726s">HTML Tutorial for Beginners</a></h1></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout">Basic grid layout</a></h1></li>
-    </ul>
-    <ul>
-        <h1>resources we used for our infromation</h1>
+        <h1>Resources we used for our infromation</h1>
         <li><a href="https://bountiegaming.medium.com/the-history-and-evolution-of-esports-8ab6c1cf3257">Bountiegaming</a></h1></li>
         <li><a href="https://ftw.usatoday.com/2021/10/dota-2-international-biggest-esports-prize-18-million">USAtoday</a></h1></li>
         <li><a href="https://www.redbull.com/gb-en/dota-international-prize-pool-vs-real-sports">Dota prize pool</a></h1></li>
@@ -21,6 +20,7 @@
         <li><a href="https://ultimatehistoryvideogames.jimdofree.com/quake/">Quake info</a></h1></li>
         <li><a href="https://www.cdw.com/content/cdw/en/articles/hardware/history-of-esports.html">History of esports</a></h1></li>
         <li><a href="https://www.rollingstone.com/culture/culture-news/how-quake-changed-video-games-forever-187984/">Quake info 2</a></h1></li>
+        <li>Any information that we knew prior to this project</li>
     </ul>
     </body>
     
